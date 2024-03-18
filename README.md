@@ -8,10 +8,6 @@
 
   - 부산대학교 IT응용공학과 재학
   - 42Seoul Cadet
-<hr>
-<hr>
-<hr>
-<hr>
 </div>
 <hr>
 <div>
