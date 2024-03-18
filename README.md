@@ -25,4 +25,9 @@
 <hr>
 <div>
   <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=Hanjjong&show_icons=true&theme=radical"/></a>
+  <ul>
+    <li> <h4>PROJECT</h4> </li>
+    <li> <img src="https://img.shields.io/badge/Seoul-000000?style=flat-square&logo=42&logoColor=FFFFFF"/>  42Seoul 실시간 자리정보 확인 서비스 - B/E </li>
+    <li> 전주시 데이터 분석 공모전 - 주정차난 해결 데이터 분석 </li>
+  </ul>
 </div>
