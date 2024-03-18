@@ -9,7 +9,10 @@
   - 42Seoul Cadet
 <hr>
 <hr>
+<hr>
+<hr>
 </div>
+<hr>
 <div>
   <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=Hanjjong&show_icons=true&theme=radical"/></a>
 </div>
