@@ -1,7 +1,7 @@
 <div align="center">
   <h3>HAN JONGMIN</h3>
   <br>
-  <img src="https://img.shields.io/badge/42-#000000?style=flat-square&logo=42&logoColor=#FFFFFF"/>
+  <img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=FFFFFF"/>
 </div>
 <hr>
 
