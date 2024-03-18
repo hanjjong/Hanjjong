@@ -1,4 +1,4 @@
-## HAN JONGMIN - jonhan
+<h3 align="center">HAN JONGMIN - jonhan</h3>
 
 - 부산대학교 IT응용공학과 재학 중
 - 42Seoul Cadet
