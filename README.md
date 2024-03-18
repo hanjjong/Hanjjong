@@ -6,7 +6,6 @@
     <div align=center>
         <h3>HAN JONGMIN</h3>
             <h2>jonhan</h2>
-        <p align=center>-------------------------------------------------------------------------------------</p>
     </div>
     <div>
         <div align=center>
