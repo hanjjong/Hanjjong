@@ -8,4 +8,4 @@
 - 42Seoul Cadet
 
 
-<a><img align="right" src="[http://mazassumnida.wtf/api/v2/generate_badge?boj=tim4974&theme=dark](https://github-readme-stats.vercel.app/api?username=Hanjjong&show_icons=true&theme=radical)"/></a>
+<a><img align="right" src="https://github-readme-stats.vercel.app/api?username=Hanjjong&show_icons=true&theme=radical"/></a>
