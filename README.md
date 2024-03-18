@@ -1,7 +1,7 @@
 <h3 align="center">HAN JONGMIN - jonhan</h3>
 
 
-<table>
+<table border=0>
   <tr>
     <td>
       <h4>이력</h4>
