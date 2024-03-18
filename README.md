@@ -8,9 +8,10 @@
     </div>
     <div>
         <div>
-            <p> - 부산대학교 IT응용공학과 재학 중</p>
+            <p> - 부산대학교 IT응용공학과 재학 중 
+                    <img src="https://github-readme-stats.vercel.app/api?username=Hanjjong&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+            </p>
             <p> - 42Seoul Cadet</p>
-            <img src="https://github-readme-stats.vercel.app/api?username=Hanjjong&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
         </div>
         <div>
             <img src="https://github-readme-stats.vercel.app/api?username=Hanjjong&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
