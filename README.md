@@ -8,12 +8,14 @@
             <h2>jonhan</h2>
     </div>
     <div>
-        <div align=center>
+        <div align=left>
+            <p> - 부산대학교 IT응용공학과 재학 중</p>
+            <p> - 42Seoul Cadet</p>
+        </div>
+        <div align=light>
             <img src="https://github-readme-stats.vercel.app/api?username=Hanjjong&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
         </div>
-        <div>
-            
-        </div>
+        
     </div>
 </body>
 </html>
