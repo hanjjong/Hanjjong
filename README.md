@@ -1,6 +1,7 @@
 <div align="center">
   <h3>HAN JONGMIN - jonhan</h3>
 </div>
+<hr>
 
 <div>
   <a href="https://solved.ac/tim4974"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tim4974&theme=dark"/></a>
