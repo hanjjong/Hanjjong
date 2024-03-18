@@ -1,15 +1,15 @@
 <div align="center">
   <h3>HAN JONGMIN</h3>
   <br>
-  <img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42Seoul&logoColor=FFFFFF"/>
-</div>
+ 
 <hr>
 
 <div>
   <a href="https://solved.ac/tim4974"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tim4974&theme=dark"/></a>
   <ul>
     <li> 🏫 부산대학교 IT응용공학과 재학</li>
-    <li> 42Seoul Cadet </li>
+    <li>  <img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42Seoul&logoColor=FFFFFF"/>
+</div> 42Seoul Cadet </li>
   </ul>
   <br>
   <br>
