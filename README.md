@@ -2,7 +2,7 @@
   <h3>HAN JONGMIN</h3>
   <br>
   <h4>📚 Studying 📚</h4>
-  <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=spring&logoColor=#6DB33F"/>
+  <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=spring&logoColor=#6DB33F"/>
 </div>
 <hr>
 
