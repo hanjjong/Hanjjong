@@ -27,7 +27,7 @@
   <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=Hanjjong&show_icons=true&theme=radical"/></a>
   <h3>PROJECT</h3>
   <ul>
-    <li> 42Seoul 실시간 자리정보 확인 서비스 - B/E </li>
+    <li> 42Seoul 실시간 자리정보 확인 서비스 'WHERE42' - B/E </li>
     <li> 전주시 데이터 분석 공모전 - 주정차난 해결 데이터 분석 </li>
   </ul>
 </div>
