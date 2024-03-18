@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text='Hanjjong's%20github'&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text='Hanjjong's%20github'&fontSize=50" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanjjong&show_icons=true&theme=radical)
 
 
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&&section=footer&text=&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&&section=footer&text=&fontSize=50" />
