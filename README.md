@@ -1,14 +1,12 @@
 <div align="center">
   <h3>HAN JONGMIN</h3>
+  <h5>한종민</h5>
   <br>
   <h4>📚 Studying 📚</h4>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-
-
-
 </div>
 <hr>
 
@@ -28,5 +26,3 @@
 <div>
   <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=Hanjjong&show_icons=true&theme=radical"/></a>
 </div>
-
-
