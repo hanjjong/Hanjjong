@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text='Hanjjong's github'&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text='Hanjjong's%20github'&fontSize=50" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanjjong&show_icons=true&theme=radical)
 
 
