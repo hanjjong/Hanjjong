@@ -15,7 +15,7 @@
   <ul>
     <li> 🏫 부산대학교 IT응용공학과 재학</li>
     <li> <img src="https://img.shields.io/badge/Seoul-000000?style=flat-square&logo=42&logoColor=FFFFFF"/>  42Seoul 9기 Cadet </li>
-    <li> 🦁 부산대학교 멋쟁이사자처럼 12기 백엔드 운영진</li>
+    <li> 🦁 PNU 멋쟁이사자처럼 12기 B/E 운영진</li>
   </ul>
   <br>
   <br>
