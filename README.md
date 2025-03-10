@@ -13,7 +13,7 @@
   <a href="https://solved.ac/tim4974"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tim4974&theme=dark"/></a>
   <h3>저는</h3>
   <ul>
-    <li> 🏫 부산대학교 IT응용공학과 재학</li>
+    <li> 🏫 부산대학교 IT응용공학 전공</li>
     <li> <img src="https://img.shields.io/badge/Seoul-000000?style=flat-square&logo=42&logoColor=FFFFFF"/>  42Seoul 9기 Member </li>
     <li> 🦁 PNU 멋쟁이사자처럼 12기 B/E 운영진</li>
   </ul>
