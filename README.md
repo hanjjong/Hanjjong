@@ -14,7 +14,7 @@
   <h3>저는</h3>
   <ul>
     <li> 🏫 부산대학교 IT응용공학과 재학</li>
-    <li> <img src="https://img.shields.io/badge/Seoul-000000?style=flat-square&logo=42&logoColor=FFFFFF"/>  42Seoul 9기 Cadet </li>
+    <li> <img src="https://img.shields.io/badge/Seoul-000000?style=flat-square&logo=42&logoColor=FFFFFF"/>  42Seoul 9기 Member </li>
     <li> 🦁 PNU 멋쟁이사자처럼 12기 B/E 운영진</li>
   </ul>
   <br>
@@ -28,6 +28,8 @@
   <h3>PROJECT</h3>
   <ul>
     <li> 42Seoul 실시간 자리정보 확인 서비스 'WHERE42' - B/E </li>
+    <li> FT_Transcendence 실시간 온라인 탁구 게임 사이트 "Beautipong" - Full stack </li>
+    <li> 생성형 AI 기반 기술면접을 대비한 CS 문제 풀이 서비스 'CS 100' - BE </li>
     <li> 전주시 데이터 분석 공모전 - 주정차난 해결 데이터 분석 </li>
   </ul>
 </div>
